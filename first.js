@@ -18,3 +18,8 @@ console.log('Hello people'); // this kind of comment can come after your code
  * without you needing to do anything 
  * extra
  */
+
+x = 5;
+y = 4;
+z = x + y;
+console.log(z);
